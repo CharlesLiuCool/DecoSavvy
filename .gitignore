@@ -1,0 +1,16 @@
+Assembly-CSharp-Editor.csproj
+Assambly-CSharp.csproj
+*.jpg
+DecoSavvy.sln
+Build Output.APK
+README.md
+
+.vscode/
+DecoSavvy Camera_BurstDebugInformation_DoNotShip/
+Library/
+Logs/
+.utmp/
+Textures/
+
+
+#ignore everything that is not ProjectSettings, UserSettings, Packages, Assets, or Packages
